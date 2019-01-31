@@ -15,3 +15,4 @@ final class Acronym: Content {
 extension Acronym: PostgreSQLModel {}
 
 extension Acronym: Migration {}
+extension Acronym: Parameter {}
